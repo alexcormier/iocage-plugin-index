@@ -1,0 +1,12 @@
+{
+    "qbittorrent": {
+        "MANIFEST": "qbittorrent.json",
+        "name": "qBittorrent",
+        "icon": "https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/src/icons/qbittorrent-tray.svg",
+        "description": "Open source Bittorent client written in C++ and QT.",
+        "official": false,
+        "primary_pkg": "qbittorrent-nox",
+        "category": "content",
+        "homepage": "http://qbittorrent.org/"
+    }
+}
