@@ -1,5 +1,5 @@
 {
-    "qbittorrent": {
+    "qbittorrent-wg": {
         "MANIFEST": "qbittorrent.json",
         "name": "qBittorrent",
         "icon": "https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/src/icons/qbittorrent-tray.svg",

@@ -1,5 +1,5 @@
 {
-  "name": "qbittorrent",
+  "name": "qbittorrent-wg",
   "plugin_schema": "2",
   "release": "12.2-RELEASE",
   "artifact": "https://github.com/alexcormier/iocage-plugin-qbittorrent",
